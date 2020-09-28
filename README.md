@@ -1,1 +1,3 @@
-# ML_for_Data_Analysis_Coursera
+#Machine Learning for Data Analysis
+##Weekly assignments
+
