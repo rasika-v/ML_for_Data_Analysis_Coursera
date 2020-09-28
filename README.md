@@ -1,3 +1,3 @@
-#Machine Learning for Data Analysis
-##Weekly assignments
+# Machine Learning for Data Analysis
+## Weekly assignments
 
